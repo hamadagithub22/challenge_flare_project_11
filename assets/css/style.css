@@ -98,7 +98,8 @@ header nav .navs a{
 /*88888888888888888888888888 */
 #section3{
     height: auto;
-    padding: 50px;
+    padding: 100px;
+    background-color: rgb(33, 32, 32);
 
     
 
@@ -183,7 +184,7 @@ header nav .navs a{
 
 footer{
     height: auto;
-    background-color:  rgb(8, 8, 14);
+    background-color: rgb(33, 32, 32);
     color: white;
     text-align: center;
     padding-bottom: 60px;
